@@ -129,7 +129,7 @@
         </mj-raw>
 
         <mj-section padding="0" padding-bottom="20px">
-            <mj-group padding="20px" width="150px">
+            <mj-group>
                 <mj-column>
                     <mj-image padding="0" src="https://i.ibb.co/djGC12K/facebook.png" alt="Facebook" href="https://www.facebook.com/JaxxonCo/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
                 </mj-column>
