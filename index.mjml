@@ -1,0 +1,146 @@
+<mjml>
+    <mj-head>
+    <mj-title>Jaxxon Limited Edition</mj-title>
+        <mj-style>
+            *{
+                box-sizing: border-box;
+                background-color: #FFFFFF;
+                font-family: Arial, sans-serif;
+                font-weight: normal;
+            }
+        </mj-style>
+
+        <mj-style inline="inline">
+            .text{
+                text-decoration: none;
+                color: #000000;
+
+            }
+            
+        </mj-style>
+    </mj-head>
+
+    <mj-body background-color="#FAF9F6">
+    <mj-wrapper padding-top="0" padding-bottom="0px">
+        <mj-raw>
+            <!--   Header -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image  padding="0" src="https://i.ibb.co/B6vNP4v/header.png" alt="Jaxxon Presents" href="https://club.jaxxon.com/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--   Hero#1 -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/QKx0HgY/hero-1.png" alt="Trusted By Athletes" href="https://club.jaxxon.com/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--   Hero#2 -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/QPM6Zcm/header-2.png" alt="Limited Edition Clothing" href="https://club.jaxxon.com/products?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--   Banner -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/vLFppT2/limited-banner.png" alt="Limited Edition Clothing" href="https://club.jaxxon.com/products?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-raw>
+            <!--   Austin -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/Y8nMv6C/austin.png" alt="Austin Keller" href="https://club.jaxxon.com/products?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-raw>
+            <!--   TJ -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/VgJCvDf/TJ.png" alt="Limited Edition Clothing" href="https://club.jaxxon.com/products?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+
+        <mj-raw>
+            <!--   Elly -->
+        </mj-raw>
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.ibb.co/tYJCM20/Elly.png" alt="Limited Edition Clothing" href="https://club.jaxxon.com/products?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+            </mj-column>
+        </mj-section>
+
+        <mj-raw>
+            <!--   Footer -->
+        </mj-raw>
+        
+
+        <mj-include path="./components/divider.mjml" />
+
+        <mj-section padding="0">
+            <mj-column>
+                <mj-text align="center" color="#000000" font-size="14px" font-weight="450">
+                   <a href="https://jaxxon.com/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" class="text">jaxxon.com //</a> 
+                   <a href="mailto:contact@jaxxon.com">contact@jaxxon.com</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0">
+            <mj-column>
+                <mj-text align="center" color="#000000" font-size="14px" font-weight="450">
+                    20131 Ellipse Foothill Ranch, California 92610 United States
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="0">
+            <mj-column>
+                <mj-text align="center" color="#000000" font-size="14px" font-weight="450" line-height="1.5">
+                    You received this email from JAXXON.
+                    <br>
+                    Click here if you would like to <a href="#" color="#000000">unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-include path="./components/divider.mjml" />
+
+        <mj-raw>
+            <!-- Social -->
+        </mj-raw>
+
+        <mj-section padding="0" padding-bottom="20px">
+            <mj-group padding="20px" width="150px">
+                <mj-column>
+                    <mj-image padding="0" src="https://i.ibb.co/djGC12K/facebook.png" alt="Facebook" href="https://www.facebook.com/JaxxonCo/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+                </mj-column>
+                <mj-column>
+                    <mj-image  padding="0" src="https://i.ibb.co/vXfjdBb/instagram.png" alt="Instagram" href="https://www.instagram.com/jaxxon/?utm_campaign=Email-2-JAXXON-CLUB-&utm_medium=email&utm_source=attentive&externalId=xcOj6" />
+                </mj-column>
+                <mj-column>
+                    <mj-image padding="0" src="https://i.ibb.co/W0SXLqk/Youtube.png" alt="YouTube" href="https://www.youtube.com/@jaxxonpodcast" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-wrapper>
+    </mj-body>
+</mjml>
